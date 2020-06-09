@@ -1,7 +1,11 @@
 A fitness tracking web application using the MERN tech stack.
+
 -MongoDB
+
 -Express
+
 -React
+
 -Node.js
 
 ## Available Scripts
